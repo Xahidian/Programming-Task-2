@@ -1,0 +1,7 @@
+Vertex1	Vertex2	edge_weight	edge_id
+A	B	1	AB
+B	C	2	BC
+C	D	3	D
+D	A	4	DA
+A	C	5	AC
+B	D	6	BD
