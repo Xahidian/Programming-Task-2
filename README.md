@@ -23,13 +23,15 @@ finding paths. If the user chooses to continue, it will prompt for another pair 
 
 -------
 ### This is our input data 
-Vertex1	Vertex2	edge_weight	edge_id
-A	B	1	AB
-B	C	2	BC
-C	D	3	D
-D	A	4	DA
-A	C	5	AC
-B	D	6	BD
+- Vertex1	Vertex2	edge_weight	edge_id
+- A	B	1	AB
+- B	C	2	BC
+- C	D	3	D
+- D	A	4	DA
+- A	C	5	AC
+- B	D	6	BD
+
+This is a random input choosed by me (Any input will perfectly work in this code)
 
 -------
 
