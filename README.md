@@ -1,4 +1,4 @@
-# Programming Task 2
+# Dijkstra's algorithm (Compute the maximum & minimum weighted path)
 
 ## Graph Search Algorithm
 ### Course: IT00CD89-3005 Graph Algorithms 
